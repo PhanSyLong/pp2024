@@ -25,7 +25,7 @@ def inputOneCourse():
         'name': name
     }
     return course
-
+//
 def selectCoursesAndInputsMarks(courses, students):
     marks = {}
     for course in courses:
